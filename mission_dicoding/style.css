@@ -108,6 +108,12 @@ nav ul li a:hover {
   margin-top: 40px;
 }
 
+article {
+padding:20px 30px;
+  align-items: center;
+}
+
+
 /* ukuran tab */
 @media screen and (max-width: 768px) {
   /* navigasi tampilan tab */
